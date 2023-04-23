@@ -4,6 +4,7 @@
 
 https://www.dingolytics.com
 
+⚡️ 2023-Apr-23: We've released a [Golem-GPT](https://github.com/Dingolytics/golem-gpt), framework for building actionable agents to achieve goals specified by user, powered by OpenAI GPT
 
 # Roadmap
 
