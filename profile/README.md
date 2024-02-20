@@ -6,6 +6,16 @@ https://www.dingolytics.com
 
 ⚡️ 2024-Feb-20: Watch out the initial release (v0.1.0), [self-hosted](https://github.com/Dingolytics/dingolytics-selfhosted) option is available
 
+We build Dingolytics to help getting started with end-to-end data management from day one of project development cycle.
+
+Our tech stack includes:
+
+- ClickHouse as a main data storage
+- Vector as a data ingestion tool
+- Dingolytics API and web UI applications
+
+We provide management layer for ClickHouse and Vector to make integration easier and quicker to set up.
+
 # Development
 
 🚧 The project is under active development and things are going to change. Yes, this is a DISCLAIMER.
