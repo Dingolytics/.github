@@ -24,6 +24,5 @@ Please let us know if you want to implement Dingolytics in real projects! And te
 
 # Links
 
-- Front-end / JavaScript & React: [dingolytics](https://github.com/Dingolytics/dingolytics)
-- Back-end / Python: [dingolytics-backend](https://github.com/Dingolytics/dingolytics-backend)
-- Self-hosted example / Docker: [dingolytics-selfhosted](https://github.com/Dingolytics/dingolytics-selfhoste
+- Source code: [dingolytics](https://github.com/Dingolytics/dingolytics) | [dingolytics-backend](https://github.com/Dingolytics/dingolytics-backend)
+- Self-hosted example via Docker: [selfhosted](https://github.com/Dingolytics/dingolytics-selfhosted)
